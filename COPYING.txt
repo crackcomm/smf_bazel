@@ -1,0 +1,10 @@
+Format-Specification: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Name: smf_bazel
+Source: https://github.com/crackcomm/smf_bazel
+Maintainer: Łukasz Kurowski <crackcomm@gmail.com>
+
+Files: third_party/flatbuffers.BUILD
+Source: https://github.com/tensorflow/tensorflow/blob/master/third_party/flatbuffers/flatbuffers.BUILD
+Copyright: 2022, TensorFlow Authors
+           2022, Łukasz Kurowski
+License: Apache-2.0
